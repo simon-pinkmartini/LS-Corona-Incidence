@@ -1,0 +1,85 @@
+DATEN
+
+Hauptquelle: Johns Hopkins https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+Check: OWID https://ourworldindata.org/grapher/daily-covid-cases-deaths
+
+
+
+1) LÄNDER ÄHNLICH WIE SCHWEIZ, DIE EPIDEMIE ETWAS BESSER ODER ETWAS SCHLECHTER IM GRIFF HABEN
+
+SCHWEIZ
+=> Die bekannte Kurve, die wir bereits kennen. Zahlen erfolgreich runtergedrückt, allerdings noch immer plusminus 200 Fälle pro Tag
+
+ÖSTERREICH
+=> Österreich hat insgesamt weniger Fälle als Schweiz, und sie sind schon weiter fortgeschritten beim Herunterbringen der Kurve, inzwischen unter 100 neue Fälle pro Tag. These: Sie haben einen Tick strengere Massnahmen verfolgt (prüfen!) und leichte Vorteile ggü der Schweiz wegen weniger dichter Besiedelung.
+
+- Hopkins Zahlen stimmen mit ECDC überein https://ourworldindata.org/grapher/daily-covid-cases-deaths?country=AUT
+- Dashboard der Standard: https://www.derstandard.at/story/2000115810293/aktuelle-zahlen-zum-coronavirus
+- Massnahmen: https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Austria
+o Erst startete Lockdown in Tirol. Am 10. März und waren (ab dem 16. März) lockere Beschränkungen vorgesehen (Indoor nicht mehr als 100 Leute)
+o Doch dann ging es rasch: Lockdown am 16. März, nur noch in Ausnahmefällen aus dem Haus (Beruf, Lebensmitteleinkäufe, Hilfsdienste, Outdooraktivität alleine). Nur noch 5 Personen.
+o Maskenpflicht am 6. April in Supermärkten
+o Ab dem 14. April Maskenpflicht im ÖV. Shops unter 400m2 dürfen wieder öffnen: https://www.derstandard.at/story/2000116573591/geschaeftsoeffnung-maskenpflicht-und-matura-die-massnahmen-der-regierung-im-ueberblick?ref=cta_red_s1
+- Regierung tritt an Pressekonferenzen hinter Glasscheiben und mit Masken auf: https://www.youtube.com/watch?v=-b7-ZeKbQFw
+
+
+NIEDERLANDE
+=> Der umgekehrte Fall. Langsamerer Anstieg als in Österreich, aber bis jetzt noch immer nicht geschafft, die täglichen Fälle zu verringern. Nach wie vor zw 400 und 500 Ansteckungen pro Tag. Offene Frage: Warum sinken Zahlen nicht? Liegt es an Strategie oder daran, dass sie einfach später dran sind?
+
+- Massnahmen: z.T. ähnlich wie in meisten europäischen Ländern (Schulen etc. geschlossen ab Mitte März) https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Netherlands
+- aber viele Läden bleiben offen. "intelligent Lockdown" https://www.bbc.com/news/world-europe-52135814
+- Mark Rutte hat Verwirrung gestiftet wegen "Herdenimmunität" https://www.dutchnews.nl/news/2020/03/mps-back-ministers-on-coronavirus-herd-immunity-is-not-the-aim-says-rutte/
+- Offizielle Strategie: Epidemie "kontrollieren" (nicht eindämmen) https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands
+
+SCHWEDEN
+=> Das europäische Land, das aktuell am kontroversesten diskutiert wird. Fallzahlen steigen weiterhin an, im Verlauf des Aprils nur leicht abgeflacht. Nach wie vor ca 500 Fälle pro Tag. Kommen sie ohne harten Lockdown durch?
+
+- Fallzahlen in Schweden nehmen zu, v.a. in Alters- und Pflegeheimen haben sie Probleme, sagt Koch. Annahme, dass im Mai die Herdenimmunität zum Tragen kommt, kann sich Mathys nicht vorstellen. https://www.youtube.com/watch?v=0h5pxpi31oE&feature=emb_logo
+- Schweden versucht, so viele Aktivitäten wie möglich offen zu halten, sogar Restaurants. Allerdings bleiben die Leute von selbst öfters zu Haus https://www.tagesanzeiger.ch/umstrittener-sonderweg-in-schweden-675401276967
+- oberster Epidemiologe hat weitreichende Befugnisse. Sagt Strategie sei erfolgreich https://www.bloomberg.com/news/articles/2020-04-19/sweden-says-controversial-covid-19-strategy-is-proving-effective
+- Heftige Kontroverse, Forscher schreiben offen Briefe https://www.thelocal.se/20200414/swedens-coronavirus-strategy-sparks-fierce-debate-as-deaths-pass-1000
+
+
+2) GROSSE LÄNDER, DIE DIE EPIDEMIE NICHT WIRKLICH IM GRIFF HABEN
+
+USA
+- grösster Corona-Herd der Welt
+- zwischen Mitte März und Anfang April Zahlen stark gestiegen, seither etwa ein Plateau. Sinken der Fallzahlen noch weniger in Sicht als in Niederlanden
+- sehr unterschiedliche Situation je nach Landesteil, manche Bezirke haben 0 Fälle https://coronavirus.jhu.edu/us-map
+
+RUSSLAND
+=> stark steigende Zahlen in den letzten Wochen. Aktuell 4000 neue Fälle pro Tag, sieht noch nicht nach einer Abflachung aus
+
+BRASILIEN
+=> ähnlich wie Russland
+
+
+
+3) ASIATISCHE LÄNDER, DIE FRÜH KONFRONTIERT WURDEN, TEILS DEN ANFANG GUT MEISTERTEN, ABER INZWISCHEN SEHR UNTERSCHIEDLICHE VERLÄUFE HABEN
+
+SINGAPUR
+=> Eines der asiatischen Länder, das die Epidemie anfangs im Griff hatte. Seit April allerdings rapider Anstieg. Inzwischen zw 600 und 100 Fälle pro Tag.
+
+- BAG Matthys: Singapur beunruihgender Anstieg, 600 neue Fälle pro Tag
+- https://edition.cnn.com/2020/04/18/asia/singapore-coronavirus-response-intl-hnk/index.html?utm_term=15872945118917d15be3278cd&utm_source=Coronavirus+Update+-+April+19%2C+2020&utm_medium=email&utm_campaign=199467_1587294511894&bt_ee=7cjR9Q5tHbXetW5PuD%2F4JY28lJW8q2dmtcTYUf%2FHcAth896UaJ6Xn2GYzQjTi6EJ&bt_ts=1587294511894
+- Lange kein Lockdown, schliesslich aber doch. siehe auch unser Text: https://www.republik.ch/2020/04/17/das-neue-normal
+
+
+JAPAN
+=> Ähnlich wie Singapur. Allerdings schon ein paar Wochen früher Zeichen eines Anstiegs. Erste, leichte Lockdown-Massnahmen reichten nicht aus, um das zu verhindern (checken)
+- BAG Matthys: Ebenfalls beunruhigende Zunahme.
+
+KOREA
+=> Hatte einiges früher die Coronawelle als Japan (Peak Anfang März), vermochte die Zahlen aber stark zu senken. Inzwischen nur noch sehr wenig neue Fälle
+
+
+TAIWAN
+=> Vermochte ursprüngliche Ansteckung aus Festlandchina zu blocken. Maximal gab es ca 25 Fälle pro Tag. Das vermutlich erfolgreichste Land bislang
+
+- diverse Einreise-, Kontroll- und Isolationsvorschriften, Schutzmassnahmen, Überwachung https://www.nzz.ch/technologie/taiwan-und-das-coronavirus-eine-festung-stemmt-sich-gegen-ihren-fall-ld.1549371?reduced=true
+- Sie kamen um einen Lockdown herum https://qz.com/1841177/taiwan-contained-covid-10-but-simulated-a-lockdown-anyway/
+
+
+CHINA
+- Peak im Februar dank Lockdown überwunden. Seit März erstaunlich wenig Ansteckungen. Frage aber, ob man den Zahlen trauen kann
